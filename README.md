@@ -12,4 +12,6 @@ Reproducing the results :
 - Run the classifier file in kaggle to not deal with any additional package installations as pytorch, transformers and other libraries used are pre-installed there. 
 - To run the file, you will have to upload or use (if you choose to do so locally) the separated datasets instead of the combined one. 
 
+Hardware requirements : 
 
+I used the gpu freely available on kaggle for this. It will take a long time if run just on a cpu.
